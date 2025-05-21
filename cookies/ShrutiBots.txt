@@ -1,18 +1,24 @@
-# ✨ 𝐇ᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴀᴅᴅ ʏᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄᴏᴏᴋɪᴇs ʜᴇʀᴇ ᴛᴏ ᴍᴀᴋᴇ ᴛʜɪs ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡᴏʀᴋ! ✨
-# 
-# 🗂️ 𝐂ᴏᴏᴋɪᴇs ᴘʟᴀᴄᴇᴍᴇɴᴛ:
-#  - ʏᴏᴜ ᴄᴀɴ ᴋᴇᴇᴘ ᴛʜɪs ᴀɴʏᴡʜᴇʀᴇ ɪɴ ᴛʜᴇ ᴄᴏᴏᴋɪᴇs ᴅɪʀᴇᴄᴛᴏʀʏ, 
-#     ᴡɪᴛʜ ᴀɴʏ ɴᴀᴍᴇ ʙᴜᴛ ᴛʜᴇ ᴇxᴛᴇɴsɪᴏɴ ᴍᴜsᴛ ʙᴇ `.txt`
-# 
-# 🔍 𝐇ᴏᴡ ᴛᴏ ɢᴇᴛ ʏᴏᴜᴛᴜʙᴇ ᴄᴏᴏᴋɪᴇs:
-#   1️⃣ ᴏᴘᴇɴ ʏᴏᴜʀ ᴡᴇʙ ʙʀᴏᴡsᴇʀ
-#   2️⃣ ʟᴏɢ ɪɴ ᴛᴏ ʏᴏᴜᴛᴜʙᴇ
-#   3️⃣ ɢᴏ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛᴏᴏʟs (ᴘʀᴇss `F12` ᴏʀ ʀɪɢʜᴛ-ᴄʟɪᴄᴋ → ɪɴsᴘᴇᴄᴛ)
-#   4️⃣ ɴᴀᴠɪɢᴀᴛᴇ ᴛᴏ ᴛʜᴇ "Aᴘᴘʟɪᴄᴀᴛɪᴏɴ" ᴛᴀʙ
-#   5️⃣ ᴜɴᴅᴇʀ "Cᴏᴏᴋɪᴇs", ғɪɴᴅ ᴛʜᴇ ᴏɴᴇs ғᴏʀ `youtube.com`
-#   6️⃣ ᴄᴏᴘʏ ᴀʟʟ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴀɴᴅ ᴘᴀsᴛᴇ ʜᴇʀᴇ ɪɴ ᴛʜɪs ᴛxᴛ ғɪʟᴇ
-# 
-# ❓ 𝐇ᴇʟᴘ:
-#   ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴅᴏ ᴛʜɪs ᴏʀ ᴡʜᴀᴛ ᴛᴏ ᴅᴏ, ᴍᴇssᴀɢᴇ @WTF_WhyMeeh ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ғᴏʀ sᴜᴘᴘᴏʀᴛ.
-# 
-# ✨ 𝐃ᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴛʜɪs ᴄʀᴇᴅɪᴛ ғᴏʀ ᴛʜᴇ ʙᴏᴛ'ꜱ ᴡᴏʀᴋ! ✨
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1780053329	LOGIN_INFO	AFmmF2swRAIgX3tdEN_sFsAIH1MB9gLc9lShM69GlU47Zh1dYjDc2DQCIE5LI0RpzjEymJGYwpBDqTM6_AobK33JXkfBcBr3jbFp:QUQ3MjNmekRqcjYyMDBNVThaRlZkV3JMaDVBaDdEZmMtMjJ2VmdxZkgtWUM3NnFQSVdNbTc4ZzNVSWRrSWhKUzQyUkhaLThINlFBWmpCVHlYQmFSOUNkUHJiaG1Kd3Bqd0Z2SmprZDhMamNBb3hWX3hveDI4Q0ZqcDdIWHVkLU10aGROY2psa2xMYnVUWGFJVWUzYVp6d3d6Z0lhWG9CcWp3
+.youtube.com	TRUE	/	TRUE	1782423368	PREF	f4=4000000&f6=40000000&tz=Europe.Istanbul&f7=100
+.youtube.com	TRUE	/	FALSE	1782245456	SID	g.a000xAhzqotbQmyY3NvYdUm_jjUgPT0QAFbJzFuOO3SJqvicTr3kbTsR68j4m8VEU-9K0nAE7AACgYKAT0SARQSFQHGX2Mihr9zbqvkFfLrYuiIHlH2YBoVAUF8yKpMwGwHXc8eeeCrh0F-UYz80076
+.youtube.com	TRUE	/	TRUE	1782245456	__Secure-1PSID	g.a000xAhzqotbQmyY3NvYdUm_jjUgPT0QAFbJzFuOO3SJqvicTr3kPzMGOzTGEP5NGZzJleq4ugACgYKASwSARQSFQHGX2MiCz7fcSwrEcIaZ1UU5cQTgBoVAUF8yKr8eX20rm-OKS2LxUYn3IBU0076
+.youtube.com	TRUE	/	TRUE	1782245456	__Secure-3PSID	g.a000xAhzqotbQmyY3NvYdUm_jjUgPT0QAFbJzFuOO3SJqvicTr3ktx6XdrJ2HK0e3-5qUO42qAACgYKAU8SARQSFQHGX2MiHcP9po3Wv8jfn0O4WvbabRoVAUF8yKq21xzPnzLWo-NL6XXsR_cd0076
+.youtube.com	TRUE	/	FALSE	1782245456	HSID	ATWC4H9hrtzlRPPTf
+.youtube.com	TRUE	/	TRUE	1782245456	SSID	AyP5VR4Nckxu6SoP8
+.youtube.com	TRUE	/	FALSE	1782245456	APISID	zKLs-5WYntznIhHu/AVRnjbBgaX6JbzxSD
+.youtube.com	TRUE	/	TRUE	1782245456	SAPISID	j5TmoxlfSWWAbhoC/A1MMn8syVbwh2-Y-7
+.youtube.com	TRUE	/	TRUE	1782245456	__Secure-1PAPISID	j5TmoxlfSWWAbhoC/A1MMn8syVbwh2-Y-7
+.youtube.com	TRUE	/	TRUE	1782245456	__Secure-3PAPISID	j5TmoxlfSWWAbhoC/A1MMn8syVbwh2-Y-7
+.youtube.com	TRUE	/	TRUE	1779400566	__Secure-1PSIDTS	sidts-CjIBjplskOI3wh0-Xfxb2P4nmVHIuvCksQgWwQl0AXZxuOTEXgtgOEJFeoR1DGfqH6UPihAA
+.youtube.com	TRUE	/	TRUE	1779400566	__Secure-3PSIDTS	sidts-CjIBjplskOI3wh0-Xfxb2P4nmVHIuvCksQgWwQl0AXZxuOTEXgtgOEJFeoR1DGfqH6UPihAA
+.youtube.com	TRUE	/	FALSE	1779400566	SIDCC	AKEyXzWwlpjzyHRaTaM8G13rrikIH0gySlubXGRpGLA0BtIeP11HCf_E9FZjIwat4AMdylCF28M
+.youtube.com	TRUE	/	TRUE	1779400566	__Secure-1PSIDCC	AKEyXzUEfKeC3Rm4OxkeCGU6KHfVvLIlqxuXZb63qEzo8xJTHHqjik8IuKj247PcTp7Awfe_cw
+.youtube.com	TRUE	/	TRUE	1779400566	__Secure-3PSIDCC	AKEyXzVTlzLc7JsHtrXOCz97saELQyz0wms0xV1kLD90AKYKPtRCdYHEvokRX3nzPqBSRWTfQg
+.youtube.com	TRUE	/	TRUE	0	YSC	KfV9Jy-1yNU
+.youtube.com	TRUE	/	TRUE	1763415336	VISITOR_INFO1_LIVE	jc-7UWtmT3E
+.youtube.com	TRUE	/	TRUE	1763415336	VISITOR_PRIVACY_METADATA	CgJUUhIEGgAgXA%3D%3D
+.youtube.com	TRUE	/	TRUE	1763409225	__Secure-ROLLOUT_TOKEN	CKqXlv2HlPOmCxDL1derxfCMAxjU1pbHq7WNAw%3D%3D
