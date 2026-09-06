@@ -46,8 +46,8 @@ def dirr():
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 🔗 GitHub : https://github.com/isagzbyk46/ShrutiMusic
+# 📢 Telegram Channel : https://t.me/gitaristmusic1
 # ===========================================
 
 
