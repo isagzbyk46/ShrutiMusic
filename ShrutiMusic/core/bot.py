@@ -9,9 +9,9 @@ from ..logging import LOGGER
 
 class Nand(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"Starting bot...")
+        LOGGER(__name__).info(f"Bot Başlatılıyor...")
         super().__init__(
-            name="ShrutiMusic",
+            name="GᴀʀᴍᴀᴅᴏɴMᴜꜱɪᴄ",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             bot_token=config.BOT_TOKEN,
@@ -44,7 +44,7 @@ class Nand(Client):
                 await self.send_photo(
                     config.LOG_GROUP_ID,
                     photo=config.START_IMG_URL,
-                    caption=f"<b>🎵 Bot Started Successfully</b>\n\n"
+                    caption=f"<b>🎵 Bot Başarıyla Çalıştı</b>\n\n"
                             f"<b>Name:</b> {self.name}\n"
                             f"<b>Username:</b> @{self.username}\n"
                             f"<b>ID:</b> <code>{self.id}</code>\n\n"
@@ -56,7 +56,7 @@ class Nand(Client):
                 try:
                     await self.send_message(
                         config.LOG_GROUP_ID,
-                        f"<b>🎵 Bot Started Successfully</b>\n\n"
+                        f"<b>🎵 Bot Başlatma Başarılı</b>\n\n"
                         f"<b>Name:</b> {self.name}\n"
                         f"<b>Username:</b> @{self.username}\n"
                         f"<b>ID:</b> <code>{self.id}</code>\n\n"
