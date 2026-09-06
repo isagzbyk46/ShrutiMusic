@@ -185,7 +185,7 @@ class Userbot(Client):
             pass
 
     async def start(self):
-        LOGGER(__name__).info(f"Starting Assistants...")
+        LOGGER(__name__).info(f"Asistan Başlatılıyor...")
 
         bot_username = await self.get_bot_username_from_token(config.BOT_TOKEN)
 
@@ -194,7 +194,7 @@ class Userbot(Client):
             await self.join_all_support_centers(self.one)
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOG_GROUP_ID, "Assistant Started")
+                await self.one.send_message(config.LOG_GROUP_ID, "Asistan Başladı")
             except:
                 LOGGER(__name__).error(
                     "Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin!"
